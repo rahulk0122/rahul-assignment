@@ -18,7 +18,7 @@
         $name = $_POST['name'] ;
         $email = $_POST['email'];
         $desc = $_POST['desc'];
-        echo '<script>alert("Your entries are submitted")</script>';
+        echo '<script>alert("Your entries are being submitted")</script>';
 
       $username = "root";
       $password = "12345";
